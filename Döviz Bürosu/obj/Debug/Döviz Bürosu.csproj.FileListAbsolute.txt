@@ -1,0 +1,25 @@
+C:\Users\balkanli\Documents\Visual Studio 2015\Projects\dersler\Döviz Bürosu\Döviz Bürosu\bin\Debug\Döviz Bürosu.exe.config
+C:\Users\balkanli\Documents\Visual Studio 2015\Projects\dersler\Döviz Bürosu\Döviz Bürosu\bin\Debug\Döviz Bürosu.exe
+C:\Users\balkanli\Documents\Visual Studio 2015\Projects\dersler\Döviz Bürosu\Döviz Bürosu\bin\Debug\Döviz Bürosu.pdb
+C:\Users\balkanli\Documents\Visual Studio 2015\Projects\dersler\Döviz Bürosu\Döviz Bürosu\obj\Debug\Döviz Bürosu.csprojResolveAssemblyReference.cache
+C:\Users\balkanli\Documents\Visual Studio 2015\Projects\dersler\Döviz Bürosu\Döviz Bürosu\obj\Debug\Döviz_Bürosu.Form1.resources
+C:\Users\balkanli\Documents\Visual Studio 2015\Projects\dersler\Döviz Bürosu\Döviz Bürosu\obj\Debug\Döviz_Bürosu.Properties.Resources.resources
+C:\Users\balkanli\Documents\Visual Studio 2015\Projects\dersler\Döviz Bürosu\Döviz Bürosu\obj\Debug\Döviz Bürosu.csproj.GenerateResource.Cache
+C:\Users\balkanli\Documents\Visual Studio 2015\Projects\dersler\Döviz Bürosu\Döviz Bürosu\obj\Debug\Döviz Bürosu.exe
+C:\Users\balkanli\Documents\Visual Studio 2015\Projects\dersler\Döviz Bürosu\Döviz Bürosu\obj\Debug\Döviz Bürosu.pdb
+C:\Users\balkanlionur\Desktop\Döviz Bürosu\Döviz Bürosu\Döviz Bürosu\bin\Debug\Döviz Bürosu.exe.config
+C:\Users\balkanlionur\Desktop\Döviz Bürosu\Döviz Bürosu\Döviz Bürosu\obj\Debug\Döviz Bürosu.exe
+C:\Users\balkanlionur\Desktop\Döviz Bürosu\Döviz Bürosu\Döviz Bürosu\obj\Debug\Döviz Bürosu.pdb
+C:\Users\balkanlionur\Desktop\Döviz Bürosu\Döviz Bürosu\Döviz Bürosu\bin\Debug\Döviz Bürosu.exe
+C:\Users\balkanlionur\Desktop\Döviz Bürosu\Döviz Bürosu\Döviz Bürosu\bin\Debug\Döviz Bürosu.pdb
+C:\Users\balkanlionur\Desktop\Döviz Bürosu\Döviz Bürosu\Döviz Bürosu\bin\Debug\mscorlib.dll
+C:\Users\balkanlionur\Desktop\Döviz Bürosu\Döviz Bürosu\Döviz Bürosu\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\balkanlionur\Desktop\Döviz Bürosu\Döviz Bürosu\Döviz Bürosu\bin\Debug\normidna.nlp
+C:\Users\balkanlionur\Desktop\Döviz Bürosu\Döviz Bürosu\Döviz Bürosu\bin\Debug\normnfc.nlp
+C:\Users\balkanlionur\Desktop\Döviz Bürosu\Döviz Bürosu\Döviz Bürosu\bin\Debug\normnfd.nlp
+C:\Users\balkanlionur\Desktop\Döviz Bürosu\Döviz Bürosu\Döviz Bürosu\bin\Debug\normnfkc.nlp
+C:\Users\balkanlionur\Desktop\Döviz Bürosu\Döviz Bürosu\Döviz Bürosu\bin\Debug\normnfkd.nlp
+C:\Users\balkanlionur\Desktop\Döviz Bürosu\Döviz Bürosu\Döviz Bürosu\obj\Debug\Döviz Bürosu.csprojResolveAssemblyReference.cache
+C:\Users\balkanlionur\Desktop\Döviz Bürosu\Döviz Bürosu\Döviz Bürosu\obj\Debug\Döviz_Bürosu.Form1.resources
+C:\Users\balkanlionur\Desktop\Döviz Bürosu\Döviz Bürosu\Döviz Bürosu\obj\Debug\Döviz_Bürosu.Properties.Resources.resources
+C:\Users\balkanlionur\Desktop\Döviz Bürosu\Döviz Bürosu\Döviz Bürosu\obj\Debug\Döviz Bürosu.csproj.GenerateResource.Cache
